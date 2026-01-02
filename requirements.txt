@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pydantic
+docxtpl
+python-docx
+python-dotenv
+watchdog
